@@ -15,7 +15,7 @@ end
 # loop_message_five_times takes in a message 
 #   and outputs it five times
 def loop_message_five_times message
-  loop_message_n_times (message, 5)
+  loop_message_n_times(message, 5)
 end
 
 # output_array takes in a message and a number 
